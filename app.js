@@ -1,1 +1,22 @@
-console.log(dados[0].nome);
+function pesquisar() {
+    let section = document.getElementById("resultados-pesquisa")
+console.log(section);
+
+let resultados = ""
+
+for(let dado of dados)  {
+    resultados += `
+    <div class="item-resultado">
+                <h2>
+                    <a href=${dado.assistir} target="_blank">${dado.nome}</a>
+                </h2>
+                <p class="descricao-meta">${dado.descricao}  
+                </p>
+                <P>
+                    <a href=${dado.link} target="_blank">Mais
+                        Informações</a>
+            </div>
+`
+}
+section.innerHTML = resultados
+}
