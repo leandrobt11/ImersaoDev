@@ -1,6 +1,25 @@
-# Projeto Imersão Dev
+## Berto's: Sua central de jogos personalizada!
 
-Este projeto foi desenvolvido durante a **Imersão Dev** oferecida pela [Alura](https://www.alura.com.br/) em parceria com o Google. O objetivo deste curso é ensinar os fundamentos de HTML, CSS e JavaScript para criar projetos interativos na web.
+(https://i.pinimg.com/originals/2d/3d/32/2d3d32e5b05958ccd4941ac0b52a67b6.gif)
+
+## O que faz essa aplicação?
+
+Imagina um lugar onde você pode encontrar seus jogos favoritos com apenas algumas palavras-chave. É isso que o Berto's faz! Com ele, você digita o nome de um jogo, uma palavra-chave ou até mesmo uma tag e pronto, a aplicação te mostra uma lista personalizada com tudo que você precisa saber sobre aquele jogo.
+
+## Como funciona a mágica?
+
+Você pesquisa: Digita o que você procura na caixinha.
+A aplicação vasculha: Busca em uma lista gigante de jogos por nomes, descrições e tags.
+Resultados na tela: Mostra pra você todos os jogos que combinam com a sua pesquisa, com links para jogar e saber mais.
+
+## Quer mexer no código?
+
+Sinta-se à vontade para dar uma olhada no código e até mesmo fazer suas próprias modificações. É tudo bem aberto e fácil de entender!
+
+## Observações:
+
+Dados: A lista de jogos está armazenada em um arquivo JavaScript separado (dados.js). Você pode adicionar ou remover jogos à vontade.
+Personalização: Pode mudar as cores, fontes e layout da página no arquivo CSS (style.css). Solte a sua criatividade!
 
 ## 🛠️ Tecnologias Utilizadas
 
