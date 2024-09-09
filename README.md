@@ -1,6 +1,6 @@
 ## Berto's: Sua central de jogos personalizada!
-
-(https://i.pinimg.com/originals/2d/3d/32/2d3d32e5b05958ccd4941ac0b52a67b6.gif)
+<p align="center">
+  <img src="https://i.pinimg.com/originals/2d/3d/32/2d3d32e5b05958ccd4941ac0b52a67b6.gif" alt="HTML5" width="300"/>
 
 ## O que faz essa aplicação?
 
