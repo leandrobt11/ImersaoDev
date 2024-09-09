@@ -19,6 +19,7 @@ Sinta-se à vontade para dar uma olhada no código e até mesmo fazer suas próp
 ## Observações:
 
 Dados: A lista de jogos está armazenada em um arquivo JavaScript separado (dados.js). Você pode adicionar ou remover jogos à vontade.
+
 Personalização: Pode mudar as cores, fontes e layout da página no arquivo CSS (style.css). Solte a sua criatividade!
 
 ## 🛠️ Tecnologias Utilizadas
